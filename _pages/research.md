@@ -13,11 +13,11 @@ In the LCDM and models that only modifies the expansion history, the overdensity
 
 The main results are as follows. For both DES-Y1 and DES-Y3 data, we find no inconsistency between geometry and growth.
 
-<br/><img src='/images/gg_split/plot204_v2.png'>
+<br/><img src='/images/gg_split/plot204_v2.png' width="550">
 
 However, we do find internal tension between some two-point correlation function combinations. The tension is accuired over the entire parameter space using normalizing flow. The result also depend highly on the prior.
 
-<br/><img src='/images/gg_split/internal_tension_v4.png'>
+<br/><img src='/images/gg_split/internal_tension_v4.png' width="550">
 
 The two priors we adopt in this work can be used in other large-scale structure analyses. The first prior that we call primary CMB consists of high-l TTTEEE until l=396 and low-l EE data. This prior is chosen such that it doesn't consist of late-time information about the universe. The truncation at the first peak of TTTEEE marginalizes the effect of CMB lensing, and the exclusion of low-l TT marginalizes the ISW effect. The second prior consists of BAO, SNIa, and BBN. It is a pure geometry (distance) prior, although it can not constrain inflationary physics such as primordial amplitude.
 
