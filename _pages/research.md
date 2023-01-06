@@ -12,10 +12,12 @@ Growth and Geometry Split in Light of DES-Y3 Survey
 In the LCDM and models that only modifies the expansion history, the overdensity of matter evolves in the same way as the background, characterized by the growth function. The evolution equation of the growth function only depends on the matter density today in LCDM. However, that is not true in any modified gravity and dark energy clustering or coupled to dark matter model. We test this relation by introducing a meta parameter that doesn't enter into the geometry but the growth of the LCDM and wCDM model. We carefully chose the geometry prior such that the constraining power only comes from dark energy survey (DES) weak lensing and galaxy clustering data and found no inconsistency between growth and geometry.
 
 The main results are as follows. For both DES-Y1 and DES-Y3 data, we find no inconsistency between geometry and growth.
-![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/gg_split/plot204_v2.png | width=10)
+
+![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/gg_split/plot204_v2.png)<!-- .element height="9%" width="10%" -->
 
 However, we do find internal tension between some two-point correlation function combinations. The tension is accuired over the entire parameter space using normalizing flow. The result also depend highly on the prior.
-![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/gg_split/internal_tension_v4.png | width=10)
+
+![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/gg_split/internal_tension_v4.png)<!-- .element height="9%" width="10%" -->
 
 The two priors we adopt in this work can be used in other large-scale structure analyses. The first prior that we call primary CMB consists of high-l TTTEEE until l=396 and low-l EE data. This prior is chosen such that it doesn't consist of late-time information about the universe. The truncation at the first peak of TTTEEE marginalizes the effect of CMB lensing, and the exclusion of low-l TT marginalizes the ISW effect. The second prior consists of BAO, SNIa, and BBN. It is a pure geometry (distance) prior, although it can not constrain inflationary physics such as primordial amplitude.
 
@@ -26,7 +28,7 @@ The Early Dark Energy(EDE) is a promising solution to the current Hubble tension
 
 The most obvious problem of EDE as a solution to the hubble tension is that it harms the goodness of fit to the CMB. Here, we show that by a very general late-time DE evolution (a binned w model up to 10 bins), the two problems of H0 and LSS cannot be simutaneously solved.
 
-https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/early_late/FIGURE5.png
+![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/early_late/FIGURE5.png)<!-- .element height="9%" width="10%" -->
 
 
 Emulator of the weak lensing data vector
@@ -35,10 +37,7 @@ The weak lensing and galaxy clustering pipeline are computationally very expensi
 
 The emulators in the current literature assume that they can only work inside the fiducial contour. However, it would require accuracy for the entire parameter space if we want to utilize such a method to real data, or calculate evidence ratio for example. We made a lot of progress on this as shown below. We improved the architecture. The sample points are also increased, but not very expensive to compute due to the efficiency of cocoa. We are adopting such a method in a follow-up analysis of growth-geometry split and also to the tension metric analysis that requires calculating thousands of noise realization chains. 
 
-https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/emulator/emulator_chi2_2.png
-
-
-
+![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/emulator/emulator_chi2_2.png)<!-- .element height="9%" width="10%" -->
 
 
 Micro-physics of Dark Energy: Anisotropic Stress and Sound Speed
