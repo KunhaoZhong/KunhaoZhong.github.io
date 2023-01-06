@@ -11,6 +11,8 @@ Growth and Geometry Split in Light of DES-Y3 Survey
 ---------------------------------------------------
 In the LCDM and models that only modifies the expansion history, the overdensity of matter evolve in the same way as the background, characterized by the growth function. The evolution equation of the growth function only denpends on the matter density today in LCDM. However, that is not true in any modified gravity and dark energy clustering or coupled to dark matter model. We test this relation by introducing a meta parameter that doesn't enter into the geometry but growth of the LCDM and wCDM model. We carefully chose the geometry prior such that the constraining power only comes from DES data, and found no inconsistency between growth and geometry.
 
+![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/gg_split/plot204_v2.pdf | width=10)
+
 
 
 
