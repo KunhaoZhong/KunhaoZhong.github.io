@@ -13,7 +13,7 @@ In the LCDM and models that only modifies the expansion history, the overdensity
 
 The main results are as follows. For both DES-Y1 and DES-Y3 data, we find no inconsistency between geometry and growth.
 
-![](https://github.com/KunhaoZhong/KunhaoZhong.github.io/blob/master/images/gg_split/plot204_v2.png)<!-- .element height="9%" width="10%" -->
+<br/><img src='/images/gg_split/plot204_v2.png'>
 
 However, we do find internal tension between some two-point correlation function combinations. The tension is accuired over the entire parameter space using normalizing flow. The result also depend highly on the prior.
 
