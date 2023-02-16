@@ -22,7 +22,7 @@ However, we do find internal tension between some two-point correlation function
 The two priors we adopt in this work can be used in other large-scale structure analyses. The first prior that we call primary CMB consists of high-l TTTEEE until l=396 and low-l EE data. This prior is chosen such that it doesn't consist of late-time information about the universe. The truncation at the first peak of TTTEEE marginalizes the effect of CMB lensing, and the exclusion of low-l TT marginalizes the ISW effect. The second prior consists of BAO, SNIa, and BBN. It is a pure geometry (distance) prior, although it can not constrain inflationary physics such as primordial amplitude.
 
 
-Marginalizing EDE Predictions over Late Expansion
+Marginalizing EDE Predictions over Late Expansion [2302.07333](https://arxiv.org/abs/2302.07333)
 -------------------------------------------------
 The Early Dark Energy(EDE) is a promising solution to the current Hubble tension. The simplest model of EDE however is inconsistent with the current large-scale structure data. We marginalize the late time expansion rate and test with different data set to see if a late time modification can save the EDE model.
 
