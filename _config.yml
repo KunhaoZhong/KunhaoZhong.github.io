@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Kunhao Zhong"
 title_separator          : "-"
 name                     : &name "Kunhao Zhong"
-description              : &description "Graduate Student in Physics at Stony Brook University"
+description              : &description "Ph.D Student at University of Pennsylvania"
 url                      : https://kunhaozhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KunhaoZhong/KunhaoZhong.github.io"
@@ -85,11 +85,11 @@ author:
   name             : "Kunhao Zhong"
   avatar           : "profile.png"
   bio              : "Graduate Student in Physics"
-  location         : "Stony Brook, NY"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kunhao.zhong@stonybrook.edu"
+  email            : "kunhaoz@sas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6098-4991"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
