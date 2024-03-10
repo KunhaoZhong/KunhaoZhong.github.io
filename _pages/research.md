@@ -4,6 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+For the full list of publications, see parxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Zhong,+K), or [ADS](https://ui.adsabs.harvard.edu/search/q=%3Dauthor%3A%22Zhong%2C%20Kunhao%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+----------------------------------------
+
+
 
 Simulation-Based Inferenec with Convolutional Neural Networks [2403.01368](https://arxiv.org/abs/2403.01368)
 ----------------------------------------
@@ -11,7 +15,7 @@ Simulation-Based Inference (SBI), also known as Likelihood-Free Inference, is a 
 
 Convolutional Neural Networks (CNNs), traditionally employed in image classification tasks, such as with ResNet designs, offer a powerful means for data compression in SBI at the field level. **However, cosmological data differs markedly from typical machine learning or computer vision images**, characterized by stochastic properties and a low signal-to-noise ratio. In this work, we introduce a novel regularization and data augmentation strategy that significantly enhances CNN performance. By shuffling feature maps, we disrupt large-scale correlations, mitigating overfitting and co-adaptation more effectively than traditional methods like dropout. While this approach is not a one-size-fits-all solution, its potential for broader application, including in galaxy maps or 21cm maps, is promising.
 
-<br/><img src='/images/cnn/cnn_design_v2.pdf'>
+<br/><img src='/images/cnn/cnn_design_v2.png' width="550">
 
 Emulator of the weak lensing data vector [2402.17716](https://arxiv.org/abs/2402.17716) [Part II in preparation]
 ----------------------------------------
@@ -21,7 +25,7 @@ Recent advancements propose using Neural Networks to accelerate these calculatio
 
 Traditional emulators are presumed to function within the fiducial contour alone, limiting their utility for real-data application or comprehensive parameter space analysis. Our work makes significant strides by incorporating Transformers and Self-attention mechanisms, **enabling theoretical optimality in emulator accuracy across the entire prior space**. This breakthrough allows for previously unfeasible comparisons and applications, leveraging the neural network's speed.
 
-<br/><img src='/images/emulator/validation_lcdm_LSST_CS_2M_combined.pdf'>
+<br/><img src='/images/emulator/validation_lcdm_LSST_CS_2M_combined.png'  width="550">
 
 Growth and Geometry Split in Light of DES-Y3 Survey [2301.03694](https://arxiv.org/abs/2301.03694)
 ---------------------------------------------------
@@ -29,7 +33,7 @@ In the LCDM and models that only modifies the expansion history, the overdensity
 
 The main results are as follows. **For both DES-Y1 and DES-Y3 data, we find no inconsistency between geometry and growth**. The set of choicec in our work makes the treatement of non-linearities clear as compared to other work. We will extend the work to future DES-Y6 and LSST-Y1 data.
 
-<br/><img src='/images/gg_split/plot204_v2.png'>
+<br/><img src='/images/gg_split/plot204_v2.png'  width="550">
 
 
 Marginalizing EDE Predictions over Late Expansion [2302.07333](https://arxiv.org/abs/2302.07333)
@@ -38,7 +42,6 @@ The Early Dark Energy(EDE) is a promising solution to the current Hubble tension
 
 The most obvious problem of EDE as a solution to the hubble tension is that it harms the goodness of fit to the CMB. Here, we show that by a very general late-time DE evolution (a binned w model up to 10 bins), the two problems of H0 and LSS cannot be simutaneously solved.
 
-<br/><img src='/images/emulator/emulator_chi2_2.png'>
 
 Micro-physics of Dark Energy: Anisotropic Stress and Sound Speed
 ----------------------------------------------------------------
