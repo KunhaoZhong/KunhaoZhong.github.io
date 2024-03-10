@@ -15,7 +15,7 @@ Simulation-Based Inference (SBI), also known as Likelihood-Free Inference, is a 
 
 Convolutional Neural Networks (CNNs), traditionally employed in image classification tasks, such as with ResNet designs, offer a powerful means for data compression in SBI at the field level. **However, cosmological data differs markedly from typical machine learning or computer vision images**, characterized by stochastic properties and a low signal-to-noise ratio. In this work, we introduce a novel regularization and data augmentation strategy that significantly enhances CNN performance. By shuffling feature maps, we disrupt large-scale correlations, mitigating overfitting and co-adaptation more effectively than traditional methods like dropout. While this approach is not a one-size-fits-all solution, its potential for broader application, including in galaxy maps or 21cm maps, is promising.
 
-<br/><img src='/images/cnn/cnn_design_v2.png' width="550">
+<br/><img src='/images/cnn/cnn_design_v2.png' width="650">
 
 Emulator of the weak lensing data vector [2402.17716](https://arxiv.org/abs/2402.17716) [Part II in preparation]
 ----------------------------------------
@@ -25,7 +25,7 @@ Recent advancements propose using Neural Networks to accelerate these calculatio
 
 Traditional emulators are presumed to function within the fiducial contour alone, limiting their utility for real-data application or comprehensive parameter space analysis. Our work makes significant strides by incorporating Transformers and Self-attention mechanisms, **enabling theoretical optimality in emulator accuracy across the entire prior space**. This breakthrough allows for previously unfeasible comparisons and applications, leveraging the neural network's speed.
 
-<br/><img src='/images/emulator/validation_lcdm_LSST_CS_2M_combined.png'  width="550">
+<br/><img src='/images/emulator/validation_lcdm_LSST_CS_2M_combined.png'  width="450">
 
 Growth and Geometry Split in Light of DES-Y3 Survey [2301.03694](https://arxiv.org/abs/2301.03694)
 ---------------------------------------------------
