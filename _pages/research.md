@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-For the full list of publications, see parxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Zhong,+K), or [ADS](https://ui.adsabs.harvard.edu/search/q=%3Dauthor%3A%22Zhong%2C%20Kunhao%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+For the full list of publications, see [arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Zhong,+K), or [ADS](https://ui.adsabs.harvard.edu/search/q=%3Dauthor%3A%22Zhong%2C%20Kunhao%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 ----------------------------------------
 
 
