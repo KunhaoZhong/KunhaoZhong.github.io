@@ -17,13 +17,15 @@ Convolutional Neural Networks (CNNs), traditionally employed in image classifica
 
 <br/><img src='/images/cnn/cnn_design_v2.png' width="650">
 
-Emulator of the weak lensing data vector [2402.17716](https://arxiv.org/abs/2402.17716) [Part II in preparation]
+Emulator of the weak lensing data vector [2402.17716](https://arxiv.org/abs/2402.17716) [2403.12337](https://arxiv.org/abs/2403.12337)
 ----------------------------------------
 The computation involved in weak lensing and galaxy clustering analyses is notoriously demanding. Despite improvements from OpenMP and MPI, the precision and systemic calculation requirements of next-generation analyses, such as those in the growth-geometry project, are immense. Typically, running about 100 chains for varied priors and analysis settings could take several months and consume vast computational resources.
 
 Recent advancements propose using Neural Networks to accelerate these calculations, achieving speed increases by approximately 3000 times. Consequently, processing a weak lensing chain on an AMD EPYC 7642 48-core node with four workers is reduced from roughly a month to less than a day.
 
 Traditional emulators are presumed to function within the fiducial contour alone, limiting their utility for real-data application or comprehensive parameter space analysis. Our work makes significant strides by incorporating Transformers and Self-attention mechanisms, **enabling theoretical optimality in emulator accuracy across the entire prior space**. This breakthrough allows for previously unfeasible comparisons and applications, leveraging the neural network's speed.
+
+In the first two of a serers of investigations of emulator approach, we forcast the constraining power of growth-geometry split  formalism in LSST Year 1 data, and the calibration of different tension metric with intensive noise injection. Both of these work shows the great potential of an emulator that is highly accurate within a wide parameter space.
 
 <br/><img src='/images/emulator/validation_lcdm_LSST_CS_2M_combined.png'  width="450">
 
