@@ -45,7 +45,7 @@ The Early Dark Energy(EDE) is a promising solution to the current Hubble tension
 The most obvious problem of EDE as a solution to the hubble tension is that it harms the goodness of fit to the CMB. Here, we show that by a very general late-time DE evolution (a binned w model up to 10 bins), the two problems of H0 and LSS cannot be simutaneously solved.
 
 
-Micro-physics of Dark Energy: Anisotropic Stress and Sound Speed
+Micro-physics of Dark Energy: Anisotropic Stress and Sound Speed [2408.14628](https://arxiv.org/abs/2408.14628)
 ----------------------------------------------------------------
 In the fluid description of dark energy, the perturbation is usually turned off artificially due to gravitational instability. In Post-Friedmann(PPF) prescription, the problem was solved by a gauge transform and matching the dark energy perturbation to that of dark matter at the large scale. The anisotropic stress part of this description is often ignored, and in this study we use the latest large-scale structure data along with CMB anisotropy at large scale to constrain the shear term. We also studied another phenomenological model of anisotropic stress and scaler field model that introduce sound speed.
 
