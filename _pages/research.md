@@ -9,7 +9,7 @@ For the full list of publications, see [arxiv](https://arxiv.org/search/astro-ph
 
 
 
-Simulation-Based Inferenec with Convolutional Neural Networks [2403.01368](https://arxiv.org/abs/2403.01368)
+Simulation-Based Inference with Convolutional Neural Networks [2403.01368](https://arxiv.org/abs/2403.01368)
 ----------------------------------------
 Simulation-Based Inference (SBI), also known as Likelihood-Free Inference, is a novel approach within the Bayesian framework designed to determine the posterior distribution when the likelihood function is intractable. This technique proves invaluable in scenarios where direct simulation of the physical process is possible. It has seen considerable application in understanding neural behavior and holds significant promise in cosmology, especially in extracting non-Gaussian information critical to unraveling the universe's history and the nature of dark energy and dark matter.
 
