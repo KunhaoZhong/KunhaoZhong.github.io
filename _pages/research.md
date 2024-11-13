@@ -11,9 +11,9 @@ Fast Generation of Weak Lensing Maps with Analytical Point Transformation Functi
 ----------------------------------------
 The study of large-scale cosmic structure traditionally relies on computationally intensive N-body simulations. While these simulations provide highly accurate results, they are resource-intensive and time-consuming, creating a bottleneck for modern cosmological analyses. We present a novel approach using General Point-Transformed Gaussian (GPTG) functions that significantly improves upon existing Log-normal approximations. Our five-parameter GPTG method not only preserves power spectrum matching capabilities but **achieves 2-5 times better accuracy in reproducing key statistical properties** of N-body simulations, including higher-order moments and topological features. This breakthrough enables rapid generation of realistic cosmological maps on standard computers, making it particularly valuable for next-generation surveys like the Rubin LSST. The method's analytical simplicity and robust performance across different cosmological parameters make it especially promising for field-level inference and covariance estimation applications.
 
-<br/><img src='/images/gptg/G_curve.pdf' width="220">
-<br/><img src='/images/gptg/LogNormal_map.pdf' width="220">
-<br/><img src='/images/gptg/DoubleExpLin_map.pdf' width="220">
+<br/><img src='/images/gptg/G_curve.pdf' width="220" style="display: inline-block;">
+<br/><img src='/images/gptg/LogNormal_map.pdf' width="220" style="display: inline-block;">
+<br/><img src='/images/gptg/DoubleExpLin_map.pdf' width="220" style="display: inline-block;">
 
 
 
