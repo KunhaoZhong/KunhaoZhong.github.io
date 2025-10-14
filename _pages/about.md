@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am currently a second-year Ph.D student in physics at [University of Pennsylvania](https://www.upenn.edu/). 
+I am currently a third-year Ph.D student in physics at [University of Pennsylvania](https://www.upenn.edu/). 
 
 I have a broad interest in cosmology, particle physics, and data analysis. I'm interested in modeling large-scale structure to better extract cosmological information using different approaches such as cross probes, higher order statistics, and most recently, machine learning. I'm a member of the Dark Energy Survey(DES), Rubin Observatory's Dark Energy Science Collaboration (DESC), and the Nancy Grace Roman Space Telescope. The code for my projects and notes on various topics are all publicly available on [GitHub](https://github.com/KunhaoZhong).
 
